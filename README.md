@@ -1,4 +1,4 @@
-# Git-Work-
+# Git-Work
 
 ## 1. Creating a New Git Repository and Pushing It to GitHub
 
