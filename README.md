@@ -33,3 +33,12 @@ git commit -m "Your commit message describing the change"
 git push
 
 ```
+
+## Cloning a GitHub Repository
+
+If you want to copy a remote repository to your local machine, you use the `git clone` command.
+
+```sh
+# Clone a repository from GitHub
+git clone https://github.com/your-username/your-repo-name.git
+```
